@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "id": "cash-management",
+      "name": "Gestion du Cash",
+      "description": "Efficient cash handling solutions.",
+      "image": "/images/cash-management.jpg",
+      "subcategories": [
+        {
+          "id": "bill-counter",
+          "name": "Compteuse de billets",
+          "products": [
+            {
+              "id": "bj-1200",
+              "title": "BJ-1200",
+              "price": 299.99,
+              "description": "Compteuse de billets de haute performance.",
+              "image": "/product_images/cash_managment/bj-1200.jpg"
+            },
+            {
+              "id": "dp-7011b",
+              "title": "DP-7011b",
+              "price": 249.99,
+              "description": "Compteuse automatique pour un traitement rapide.",
+              "image": "/product_images/cash_managment/dp-7011b.jpg"
+            },
+            {
+              "id": "dp-8060",
+              "title": "DP-8060",
+              "price": 249.99,
+              "description": "Compteuse automatique pour un traitement rapide.",
+              "image": "/product_images/cash_managment/dp-8060.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bill-counter",
+          "name": "Détecteurs de faux billets",
+          "products": [
+            {
+              "id": "detecteur-bj-136",
+              "title": "Detecteur-BJ-136",
+              "price": 299.99,
+              "description": "Compteuse de billets de haute performance.",
+              "image": "/product_images/cash_managment/detecteur-bj-136.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bill-counter",
+          "name": "Compteuse de monnaie",
+          "products": [
+            {
+              "id": "cc-350",
+              "title": "CC-350",
+              "price": 299.99,
+              "description": "Compteuse de billets de haute performance.",
+              "image": "/product_images/cash_managment/cc-350.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id": "coffre",
+        "name": "Coffre fort & Coffre tiroir",
+        "description": "Explore advanced surveillance solutions.",
+        "image": "/images/surveillance.jpg",
+        "subcategories": []
+      },
+    {
+      "id": "surveillance",
+      "name": "Système de surveillance",
+      "description": "Explore advanced surveillance solutions.",
+      "image": "/images/surveillance.jpg",
+      "subcategories": []
+    },
+    {
+      "id": "alarme",
+      "name": "Système d’alarme",
+      "description": "Explore advanced surveillance solutions.",
+      "image": "/images/surveillance.jpg",
+      "subcategories": []
+    },
+    {
+      "id": "scanner",
+      "name": "Scanners à rayons-X",
+      "description": "Explore advanced surveillance solutions.",
+      "image": "/images/surveillance.jpg",
+      "subcategories": []
+    },
+    {
+      "id": "detecteur",
+      "name": "Détecteurs de métaux et miroirs",
+      "description": "Explore advanced surveillance solutions.",
+      "image": "/images/surveillance.jpg",
+      "subcategories": []
+    },
+    {
+      "id": "videophone",
+      "name": "Vidéophone",
+      "description": "Explore advanced surveillance solutions.",
+      "image": "/images/surveillance.jpg",
+      "subcategories": []
+    },
+    {
+      "id": "controle",
+      "name": "Contrôle d'accès & Pointage",
+      "description": "Explore advanced surveillance solutions.",
+      "image": "/images/surveillance.jpg",
+      "subcategories": []
+    }
+  ]
+}
